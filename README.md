@@ -1,3 +1,9 @@
+<img width="1486" height="881" alt="viz6_positive_rate_category" src="https://github.com/user-attachments/assets/a3e43920-960c-44f5-9cc2-9af92bc04aaa" />
+<img width="1634" height="881" alt="viz5_rating_vs_discount" src="https://github.com/user-attachments/assets/c8c5a796-3d01-49f8-bb04-0d80c4945990" />
+<img width="2086" height="923" alt="viz4_keyword_analysis" src="https://github.com/user-attachments/assets/6fffbd91-98fb-400b-b28e-08a358dda067" />
+<img width="1636" height="1031" alt="viz3_sentiment_by_category" src="https://github.com/user-attachments/assets/d7e12080-19e9-482d-9682-f5c6a3a76518" />
+<img width="1784" height="881" alt="viz2_rating_distribution" src="https://github.com/user-attachments/assets/8af7bac6-2a59-4e8e-876d-da9c6f6ac231" />
+<img width="934" height="1032" alt="viz1_sentiment_donut" src="https://github.com/user-attachments/assets/e76fd783-7d00-4350-a8a7-9183dea9ff98" />
 # 🛒 Amazon Product Reviews — Sentiment Analysis
 
 <div align="center">
